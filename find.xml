@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.json</mask>
+      <mask>*.twig</mask>
+      <mask>.yml</mask>
+      <mask>C</mask>
+      <mask>CO</mask>
+      <mask>COn</mask>
+      <mask>COnf</mask>
+      <mask>COnfig</mask>
+      <mask>COnfigur</mask>
+      <mask>COnfigura</mask>
+      <mask>COnfigurati</mask>
+      <mask>COnfiguratio</mask>
+      <mask>COnfiguration</mask>
+      <mask>COnfiguration.</mask>
+      <mask>Configuration.</mask>
+      <mask>Configuration.p</mask>
+      <mask>Configuration.php</mask>
+      <mask>*.ym</mask>
+      <mask>y</mask>
+      <mask>ym</mask>
+      <mask>yml</mask>
+      <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
