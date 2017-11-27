@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.json</mask>
       <mask>*.twig</mask>
@@ -24,17 +26,18 @@
       <mask>Configuration.</mask>
       <mask>Configuration.p</mask>
       <mask>Configuration.php</mask>
-      <mask>*.ym</mask>
       <mask>y</mask>
       <mask>ym</mask>
       <mask>yml</mask>
-      <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
