@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
     <ignoreAction name="PHP/Swap call arguments" />
+    <ignoreAction name="PHP/Import Class as Alias" />
   </component>
 </application>
