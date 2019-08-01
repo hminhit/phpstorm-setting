@@ -3,5 +3,6 @@
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
     <ignoreAction name="PHP/Swap call arguments" />
     <ignoreAction name="PHP/Import Class as Alias" />
+    <ignoreAction name="PHP/Replace with alias" />
   </component>
 </application>
