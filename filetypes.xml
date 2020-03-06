@@ -18,6 +18,7 @@
       <mapping pattern="crontab.conf" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
+      <mapping pattern="ProofDocumentController.php" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
