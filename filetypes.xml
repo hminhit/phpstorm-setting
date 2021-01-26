@@ -6,6 +6,7 @@
       <mapping pattern="PremiumTrialList" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="CancelRequestDateOrder.php" type="PLAIN_TEXT" />
+      <mapping pattern="CurrencyTransformer.php" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
